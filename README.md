@@ -6,10 +6,10 @@ Particular attention was dedicated to a comfort and safety workers.
 
 ## Main view
 <p float="left">
-  <img src="/photo/AssBuilding_1.PNG" width="750" /> 
+  <img src="/Picures/AssBuilding_1.PNG" width="750" /> 
   
 ### Quality check room
 <p float="left">
-  <img src="/photo/AssBuilding_4.PNG" width="600" />
-  <img src="/photo/AssBuilding_5.PNG" width="600" /> 
+  <img src="/Picures/AssBuilding_4.PNG" width="300" />
+  <img src="/Picures/AssBuilding_5.PNG" width="300" /> 
 </p>
