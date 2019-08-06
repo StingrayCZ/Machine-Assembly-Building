@@ -10,6 +10,8 @@ Particular attention was dedicated to a comfort and safety workers.
   
 ### Quality check room
 <p float="left">
-  <img src="/Pictures/AssBuilding_4.PNG" width="450" />
-  <img src="/Pictures/AssBuilding_5.PNG" width="450" /> 
-</p>
+  <img src="/Pictures/AssBuilding_4.PNG" width="600" />
+  
+### Quality check room (detail)
+<p float="left">
+  <img src="/Pictures/AssBuilding_5.PNG" width="600" /> 
