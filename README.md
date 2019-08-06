@@ -17,3 +17,10 @@ Particular attention was dedicated to a comfort and safety workers.
 ### Quality check room (detail)
 <p float="left">
   <img src="/Pictures/AssBuilding_5.PNG" width="600" /> 
+  
+### Assembly line
+<p float="left">
+  <img src="/Pictures/AssBuilding_3.PNG" width="600" /> 
+  <p float="left">
+  <img src="/Pictures/AssBuilding_6.PNG" width="600" /> 
+
