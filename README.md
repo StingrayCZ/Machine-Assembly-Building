@@ -8,7 +8,7 @@ Particular attention was dedicated to a comfort and safety workers.
 <p float="left">
   <img src="/Pictures/AssBuilding_1.PNG" width="900" /> 
 <p float="left">
-  <img src="/Pictures/AssBuilding_2.PNG" width="900" /> 
+  <img src="/Pictures/AssBuilding_2.png" width="900" /> 
   
 ### Quality check room
 <p float="left">
