@@ -5,6 +5,5 @@ I was entrusted to make layout of this object. From among huge amount of require
 Particular attention was dedicated to a comfort and safety workers.
 
 ## Main view
-### ISO and Top view
 <p float="left">
-  <img src="/Photo/Flat_1.PNG" width="700" /> 
+  <img src="/photo/AssBuilding_1.PNG" width="700" /> 
