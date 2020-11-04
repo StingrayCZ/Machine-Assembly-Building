@@ -8,18 +8,18 @@ Particulary attention was dedicated to a comfort and safety for workers.
 
 ## Main view
 <p float="left">
-  <img src="/Pictures/AssBuilding_1.PNG" width="900" /> 
+  <img src="/Pictures/AssBuilding_1.PNG" width="1000" /> 
 <p float="left">
-  <img src="/Pictures/AssBuilding_2.png" width="900" />
+  <img src="/Pictures/AssBuilding_2.png" width="1000" />
 
 ## Top View
   <img src="/Pictures/TopView.png" width="900" /> 
   
 ## Department of Design&Quality
-<img src="/Pictures/Office.JPG" width="900" />
+<img src="/Pictures/Office.JPG" width="1000" />
 
 ## Storage Systems
-<img src="/Pictures/StorageSys.png" width="900" /> 
+<img src="/Pictures/StorageSys.png" width="1000" /> 
   
 ### Quality check room
 <p float="left">
