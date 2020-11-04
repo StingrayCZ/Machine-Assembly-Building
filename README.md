@@ -15,10 +15,10 @@ Particulary attention was dedicated to a comfort and safety for workers.
 ## Top View
   <img src="/Pictures/TopView.png" width="900" /> 
   
-### Department of Design&Quality
+## Department of Design&Quality
 <img src="/Pictures/Office.JPG" width="900" />
 
-### Storage Systems
+## Storage Systems
 <img src="/Pictures/StorageSys.png" width="900" /> 
   
 ### Quality check room
