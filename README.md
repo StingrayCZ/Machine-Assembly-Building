@@ -11,7 +11,8 @@ Particulary attention was dedicated to a comfort and safety for workers.
   <img src="/Pictures/AssBuilding_1.PNG" width="900" /> 
 <p float="left">
   <img src="/Pictures/AssBuilding_2.png" width="900" />
-<p float="left">
+
+## Top View
   <img src="/Pictures/TopView.png" width="900" /> 
   
 ### Department of Design&Quality
