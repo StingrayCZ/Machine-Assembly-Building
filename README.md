@@ -26,3 +26,8 @@ Particulary attention was dedicated to a comfort and safety for workers.
   <p float="left">
   <img src="/Pictures/AssBuilding_6.PNG" width="600" /> 
 
+### Assembly line
+
+<img src="/Pictures/Office.JPG" width="600" /> 
+
+
