@@ -37,10 +37,10 @@ Particulary attention was dedicated to a comfort and safety for workers.
 <img src="/Pictures/AssBuilding_6.PNG" width="600" />
 
 <p float="left">
-<img src="/Pictures/ALine_1" width="600" /> 
+<img src="/Pictures/ALine_1.JPG" width="600" /> 
 
 <p float="left">
-<img src="/Pictures/ALine_2" width="600" /> 
+<img src="/Pictures/ALine_2.JPG" width="600" /> 
 
 <p float="left">
-<img src="/Pictures/ALine_3" width="600" /> 
+<img src="/Pictures/ALine_3.JPG" width="600" /> 
