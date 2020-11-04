@@ -13,10 +13,7 @@ Particulary attention was dedicated to a comfort and safety for workers.
   <img src="/Pictures/AssBuilding_2.png" width="900" /> 
   
 ### Department of Design/Quality
-
 <img src="/Pictures/Office.JPG" width=900" /> 
-
-
   
 ### Quality check room
 <p float="left">
