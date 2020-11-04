@@ -19,7 +19,7 @@ Particulary attention was dedicated to a comfort and safety for workers.
 <img src="/Pictures/Office.JPG" width="900" />
 
 ### Storage Systems
-<img src="/Pictures/StorageSys.JPG" width="900" /> 
+<img src="/Pictures/StorageSys.png" width="900" /> 
   
 ### Quality check room
 <p float="left">
