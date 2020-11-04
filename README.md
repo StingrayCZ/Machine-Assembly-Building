@@ -12,6 +12,12 @@ Particulary attention was dedicated to a comfort and safety for workers.
 <p float="left">
   <img src="/Pictures/AssBuilding_2.png" width="900" /> 
   
+### Department of Design/Quality
+
+<img src="/Pictures/Office.JPG" width=900" /> 
+
+
+  
 ### Quality check room
 <p float="left">
   <img src="/Pictures/AssBuilding_4.PNG" width="600" />
@@ -25,9 +31,5 @@ Particulary attention was dedicated to a comfort and safety for workers.
   <img src="/Pictures/AssBuilding_3.PNG" width="600" /> 
   <p float="left">
   <img src="/Pictures/AssBuilding_6.PNG" width="600" /> 
-
-### Assembly line
-
-<img src="/Pictures/Office.JPG" width="600" /> 
 
 
