@@ -23,24 +23,24 @@ Particulary attention was dedicated to a comfort and safety for workers.
   
 ### Quality check room
 <p float="left">
-  <img src="/Pictures/AssBuilding_4.PNG" width="800" />
+  <img src="/Pictures/AssBuilding_4.PNG" width="1000" />
   
 ### Quality check room (detail)
 <p float="left">
-  <img src="/Pictures/AssBuilding_5.PNG" width="800" /> 
+  <img src="/Pictures/AssBuilding_5.PNG" width="1000" /> 
   
 ### Assembly line
 <p float="left">
-  <img src="/Pictures/AssBuilding_3.PNG" width="800" /> 
+  <img src="/Pictures/AssBuilding_3.PNG" width="1000" /> 
 
 <p float="left">
-<img src="/Pictures/AssBuilding_6.PNG" width="800" />
+<img src="/Pictures/AssBuilding_6.PNG" width="1000" />
 
 <p float="left">
-<img src="/Pictures/ALine_1.JPG" width="800" /> 
+<img src="/Pictures/ALine_1.JPG" width="1000" /> 
 
 <p float="left">
-<img src="/Pictures/ALine_2.JPG" width="800" /> 
+<img src="/Pictures/ALine_2.JPG" width="1000" /> 
 
 <p float="left">
-<img src="/Pictures/ALine_3.JPG" width="800" /> 
+<img src="/Pictures/ALine_3.JPG" width="1000" /> 
