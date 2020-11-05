@@ -21,15 +21,15 @@ Particulary attention was dedicated to a comfort and safety for workers.
 ## Storage Systems
 <img src="/Pictures/StorageSys.png" width="1200" /> 
   
-### Quality check room
+## Quality check room
 <p float="left">
   <img src="/Pictures/AssBuilding_4.PNG" width="1000" />
   
-### Quality check room (detail)
+## Quality check room (detail)
 <p float="left">
   <img src="/Pictures/AssBuilding_5.PNG" width="1000" /> 
   
-### Assembly line
+## Assembly line
 <p float="left">
   <img src="/Pictures/AssBuilding_3.PNG" width="1000" /> 
 
